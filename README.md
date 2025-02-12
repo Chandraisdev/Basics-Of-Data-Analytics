@@ -102,7 +102,7 @@ This project fulfills the requirements for the IITJ data analytics course, demon
 For assignment-related queries:
 - Course: Data Analytics
 - Institution: IITJ
-- Email: [Your Institute Email]
+
 
 ### License
 This academic project is submitted as coursework for IITJ's Data Analytics program.
